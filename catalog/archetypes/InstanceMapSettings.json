@@ -1,0 +1,233 @@
+﻿{
+  "based_on": "DefaultMapSettings",
+  "camera_bounds": {
+    "bottom_offset": 20.0,
+    "left_offset": 20.0,
+    "right_offset": 20.0,
+    "top_offset": 20.0
+  },
+  "description": "Just another Stormgate map",
+  "id": "InstanceMapSettings",
+  "lighting_settings": "DefaultLightingNight",
+  "playable_bounds": {
+    "bottom_offset": 10,
+    "left_offset": 10,
+    "right_offset": 10,
+    "top_offset": 10
+  },
+  "player_slots": [
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "human"
+        },
+        "team": {
+          "locked": false,
+          "value": 0
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 0
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 1
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 1
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 2
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 2
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 3
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 3
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 4
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 4
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 5
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 5
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 6
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 6
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 7
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 7
+        }
+      }
+    }
+  ],
+  "tileset": "TerrainTileset_SigmaStation",
+  "time_of_day": {
+    "scale": 1.0
+  },
+  "title": "NeonHorizon"
+}

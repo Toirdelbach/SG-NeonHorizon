@@ -1,0 +1,435 @@
+{
+  "03D0EBD0-4E28-F696-9054-D696785FE46B": {
+    "facing": 1073741911,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      2211840,
+      -1966080
+    ]
+  },
+  "0F6378B3-4964-B119-1335-12B987A1E463": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 16,
+    "position": [
+      -786432,
+      1212416
+    ]
+  },
+  "126DBD40-4B59-C612-76AB-EAB09DA86190": {
+    "facing": 1610612750,
+    "kind": "locationMarkerPlayerStart",
+    "player": 10,
+    "position": [
+      1212416,
+      786432
+    ]
+  },
+  "13F39FF9-4795-F2BA-A0F3-B09199A77C5C": {
+    "facing": 536870867,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1212416,
+      -950272
+    ]
+  },
+  "19700597-4B1B-A807-09B6-36B26FCA013E": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -950272,
+      1212416
+    ]
+  },
+  "1B58E4CD-4014-4284-8376-4C98C6BDD972": {
+    "facing": 1610612778,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      802816,
+      1097728
+    ]
+  },
+  "21DA982C-4C7E-94A4-F834-C2A5C2A3A147": {
+    "facing": 1073741853,
+    "kind": "locationMarkerPlayerStart",
+    "player": 11,
+    "position": [
+      1245184,
+      -802816
+    ]
+  },
+  "2398BC30-4707-AD85-DBDB-F1A48684AE7B": {
+    "facing": 1610612778,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      1966080,
+      2211840
+    ]
+  },
+  "28BE5F81-477F-3FBE-B075-B18D76745DA5": {
+    "facing": 536870867,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      -1064960,
+      -786432
+    ]
+  },
+  "294EFFE4-40FA-A015-593C-85B9C68EA883": {
+    "facing": 0,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      -1097728,
+      786432
+    ]
+  },
+  "2A781BB0-4B5D-1618-43EF-F5B010557B37": {
+    "facing": 536870897,
+    "kind": "locationMarkerPlayerStart",
+    "player": 14,
+    "position": [
+      -1212416,
+      -786432
+    ]
+  },
+  "36FB7C36-4596-18F8-D9A0-D6B19EE06CD1": {
+    "facing": 1073741911,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      2359296,
+      -2129920
+    ]
+  },
+  "394AAAE7-4EF5-E5D5-DD68-8B85C437DC16": {
+    "facing": 536870897,
+    "kind": "locationMarkerPlayerStart",
+    "player": 6,
+    "position": [
+      -2359296,
+      -1966080
+    ]
+  },
+  "40C8B376-4648-DCBA-1144-ACA46B25B8AC": {
+    "facing": 536870897,
+    "kind": "locationMarkerPlayerStart",
+    "player": 13,
+    "position": [
+      -802816,
+      -1245184
+    ]
+  },
+  "5466455A-4B67-A343-C538-4ABFDFE7D884": {
+    "facing": 1610612778,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      1064960,
+      786432
+    ]
+  },
+  "5477ACDF-4A99-93D2-3350-3BB8C3484765": {
+    "facing": 1073741853,
+    "kind": "locationMarkerPlayerStart",
+    "player": 12,
+    "position": [
+      786432,
+      -1212416
+    ]
+  },
+  "5614E840-4C65-7381-FBE7-1989D74503BB": {
+    "facing": 1610612778,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      2129920,
+      2359296
+    ]
+  },
+  "57C9860C-4F5D-0F36-206F-9F9AF760ABD6": {
+    "facing": 1073741853,
+    "kind": "locationMarkerPlayerStart",
+    "player": 4,
+    "position": [
+      1966080,
+      -2359296
+    ]
+  },
+  "5A829532-4689-6537-7732-278B75536BC6": {
+    "facing": 0,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      -2211840,
+      1966080
+    ]
+  },
+  "5E4315AB-4E2A-2DDD-88D6-AA82CF03D24C": {
+    "facing": 536870867,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -2359296,
+      -2129920
+    ]
+  },
+  "5EB00894-41D0-B751-31E2-BFB2EF524928": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 15,
+    "position": [
+      -1245184,
+      802816
+    ]
+  },
+  "5F80F421-4E17-20B4-529F-6B9461938222": {
+    "facing": 536870897,
+    "kind": "locationMarkerPlayerStart",
+    "player": 5,
+    "position": [
+      -1966080,
+      -2359296
+    ]
+  },
+  "62FC2447-4E27-553C-A485-DFB6451A7918": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 8,
+    "position": [
+      -1966080,
+      2359296
+    ]
+  },
+  "67884985-4167-29A2-1116-0C8738B28DF4": {
+    "facing": 1073741998,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      1245184,
+      -966656
+    ]
+  },
+  "8722E5D4-4481-3FF7-A5A2-3A9874BDD8E3": {
+    "facing": 0,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      -1966080,
+      2211840
+    ]
+  },
+  "886E8AC3-4857-E725-76CB-B8A8A44ACD04": {
+    "facing": 536870852,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      -803502,
+      -1096287
+    ]
+  },
+  "897C067A-484F-2EC4-1EF5-42AC62E3954E": {
+    "facing": 1073741940,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      786432,
+      -1064960
+    ]
+  },
+  "8BB21E22-4349-3778-F567-EEAF5E1FA8FC": {
+    "facing": 1610612778,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      2359296,
+      2129920
+    ]
+  },
+  "8FC0612F-43D5-2FFF-2329-B795F6A0337D": {
+    "facing": 1610612750,
+    "kind": "locationMarkerPlayerStart",
+    "player": 9,
+    "position": [
+      802816,
+      1245184
+    ]
+  },
+  "92823D60-41F8-F6EF-377B-87953A369F39": {
+    "facing": 1610612778,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      2211840,
+      1966080
+    ]
+  },
+  "9466BA56-496B-6420-7337-C9B1D57B685F": {
+    "facing": 1610612778,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      1212416,
+      950272
+    ]
+  },
+  "99E2BC3F-42C5-C8B4-EBD7-6D96599C4DB5": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -2129920,
+      2359296
+    ]
+  },
+  "9AE95B24-4F9B-AE1C-4799-6F9BB13EC027": {
+    "facing": 1073741940,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      957275,
+      -1213269
+    ]
+  },
+  "9C20E7B0-4F79-9353-A3FC-17B43CF3FDC3": {
+    "facing": 536870867,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -2129920,
+      -2359296
+    ]
+  },
+  "A56AF7B5-407B-DE9A-5E63-508D1D8459BA": {
+    "facing": 1610612750,
+    "kind": "locationMarkerPlayerStart",
+    "player": 2,
+    "position": [
+      2359296,
+      1966080
+    ]
+  },
+  "AAF6D121-4953-6E26-3E09-17846820BC25": {
+    "facing": 1610612750,
+    "kind": "locationMarkerPlayerStart",
+    "player": 1,
+    "position": [
+      1966080,
+      2359296
+    ]
+  },
+  "B329C644-4A9E-1665-F8E6-888D3E830E4B": {
+    "facing": 1073741911,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      1966080,
+      -2211840
+    ]
+  },
+  "B9CD1067-4AC1-C425-2152-DA9A601EB54D": {
+    "facing": 536870822,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -966656,
+      -1245184
+    ]
+  },
+  "C56920DF-4D02-727F-6230-5D9DAB527D9B": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -2359296,
+      2129920
+    ]
+  },
+  "C577AE79-4C2A-DD4A-4113-CFA6AFB4576A": {
+    "facing": 1610612806,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      966656,
+      1245184
+    ]
+  },
+  "C75BE21E-4DFD-ADF0-5A15-B18099E65FAA": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 7,
+    "position": [
+      -2359296,
+      1966080
+    ]
+  },
+  "CF2BAEF4-46C0-23B5-83B8-1B9BFE24806E": {
+    "facing": 536870867,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      -1966080,
+      -2211840
+    ]
+  },
+  "CFB34C83-4180-02EA-1BA1-EBB16E1B36F6": {
+    "facing": 1073741940,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      1114112,
+      -802816
+    ]
+  },
+  "D2D9C441-4B18-1648-2906-C1881DCDBF6D": {
+    "facing": 536870867,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      -2211840,
+      -1966080
+    ]
+  },
+  "D62E2B4F-49F1-AE1F-09FD-CB89291DC05B": {
+    "facing": 1073741853,
+    "kind": "locationMarkerPlayerStart",
+    "player": 3,
+    "position": [
+      2359296,
+      -1966080
+    ]
+  },
+  "E90F83DE-43D2-ABF3-3D08-849F472B73CD": {
+    "facing": 0,
+    "kind": "ResourceB_Generator",
+    "player": 0,
+    "position": [
+      -786432,
+      1064960
+    ]
+  },
+  "F1DE8BFC-4BAC-A43B-2E93-B1AAF2629335": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1245150,
+      971653
+    ]
+  },
+  "F4EDEFEF-466D-0F8B-35C3-019A45CB858D": {
+    "facing": 1073741911,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      2129920,
+      -2359296
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,19 @@
+﻿{
+  "__base_type": "TerrainTileset",
+  "based_on": "TerrainTileset",
+  "cliff_set_a": "DA_CliffSet_Sigma1",
+  "cliff_set_b": "DA_CliffSet_Sigma1",
+  "display_name": "",
+  "doodad_aggregate_layer": "Moss",
+  "id": "TerrainTileset_NeonHorizon",
+  "layer_1": "TerrainLayer_SigmaStation_FloorTilesLarge",
+  "layer_2": "TerrainLayer_SigmaStation_MetalicTileLarge",
+  "layer_3": "TerrainLayer_SigmaStation_MetalicAsymTiles",
+  "layer_4": "TerrainLayer_UrbanRuins_LargeSteelTiles",
+  "layer_5": "TerrainLayer_SigmaStation_FloorTilesSmall",
+  "layer_6": "TerrainLayer_SigmaStation_Concrete",
+  "layer_7": "TerrainLayer_SigmaStation_ConcreteTiles",
+  "layer_8": "TerrainLayer_SigmaStation_MetalGrates",
+  "render_abyss": true,
+  "water_table": "DA_WaterTable_ForestAutumn"
+}
