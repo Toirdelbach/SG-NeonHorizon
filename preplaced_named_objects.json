@@ -1,434 +1,1370 @@
 {
-  "03D0EBD0-4E28-F696-9054-D696785FE46B": {
-    "facing": 1073741911,
-    "kind": "ResourceB_Generator",
-    "player": 0,
-    "position": [
-      2211840,
-      -1966080
-    ]
-  },
-  "0F6378B3-4964-B119-1335-12B987A1E463": {
-    "facing": 0,
-    "kind": "locationMarkerPlayerStart",
-    "player": 16,
-    "position": [
-      -786432,
-      1212416
-    ]
-  },
-  "126DBD40-4B59-C612-76AB-EAB09DA86190": {
-    "facing": 1610612750,
-    "kind": "locationMarkerPlayerStart",
-    "player": 10,
-    "position": [
-      1212416,
-      786432
-    ]
-  },
-  "13F39FF9-4795-F2BA-A0F3-B09199A77C5C": {
-    "facing": 536870867,
-    "kind": "MegaResourceA",
-    "player": 0,
-    "position": [
-      -1212416,
-      -950272
-    ]
-  },
-  "19700597-4B1B-A807-09B6-36B26FCA013E": {
-    "facing": 0,
-    "kind": "MegaResourceA",
-    "player": 0,
-    "position": [
-      -950272,
-      1212416
-    ]
-  },
-  "1B58E4CD-4014-4284-8376-4C98C6BDD972": {
-    "facing": 1610612778,
-    "kind": "ResourceB_Generator",
-    "player": 0,
-    "position": [
-      802816,
-      1097728
-    ]
-  },
-  "21DA982C-4C7E-94A4-F834-C2A5C2A3A147": {
-    "facing": 1073741853,
-    "kind": "locationMarkerPlayerStart",
-    "player": 11,
-    "position": [
-      1245184,
-      -802816
-    ]
-  },
-  "2398BC30-4707-AD85-DBDB-F1A48684AE7B": {
-    "facing": 1610612778,
-    "kind": "ResourceB_Generator",
-    "player": 0,
-    "position": [
-      1966080,
-      2211840
-    ]
-  },
-  "28BE5F81-477F-3FBE-B075-B18D76745DA5": {
-    "facing": 536870867,
-    "kind": "ResourceB_Generator",
-    "player": 0,
-    "position": [
-      -1064960,
-      -786432
-    ]
-  },
-  "294EFFE4-40FA-A015-593C-85B9C68EA883": {
-    "facing": 0,
-    "kind": "ResourceB_Generator",
-    "player": 0,
-    "position": [
-      -1097728,
-      786432
-    ]
-  },
-  "2A781BB0-4B5D-1618-43EF-F5B010557B37": {
+  "031D5BC3-43D6-BEC1-836D-D09EF017C9BB": {
     "facing": 536870897,
-    "kind": "locationMarkerPlayerStart",
-    "player": 14,
-    "position": [
-      -1212416,
-      -786432
-    ]
-  },
-  "36FB7C36-4596-18F8-D9A0-D6B19EE06CD1": {
-    "facing": 1073741911,
     "kind": "MegaResourceA",
     "player": 0,
     "position": [
-      2359296,
-      -2129920
+      1638400,
+      -1327104
     ]
   },
-  "394AAAE7-4EF5-E5D5-DD68-8B85C437DC16": {
+  "04619C44-459F-3B21-4E7D-08BA74781CA9": {
+    "facing": 0,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      -1392640,
+      -2310144
+    ]
+  },
+  "0672C63D-45A5-083C-5FA8-5193284EDEE6": {
     "facing": 536870897,
     "kind": "locationMarkerPlayerStart",
     "player": 6,
     "position": [
-      -2359296,
-      -1966080
+      2605056,
+      -1982464
     ]
   },
-  "40C8B376-4648-DCBA-1144-ACA46B25B8AC": {
+  "08721935-4DDA-585B-F346-E8B12B13F9BC": {
     "facing": 536870897,
-    "kind": "locationMarkerPlayerStart",
-    "player": 13,
-    "position": [
-      -802816,
-      -1245184
-    ]
-  },
-  "5466455A-4B67-A343-C538-4ABFDFE7D884": {
-    "facing": 1610612778,
-    "kind": "ResourceB_Generator",
+    "kind": "DestructibleBuilding02",
     "player": 0,
     "position": [
-      1064960,
-      786432
+      540672,
+      -1327104
     ]
   },
-  "5477ACDF-4A99-93D2-3350-3BB8C3484765": {
+  "09BE0A8C-41E8-EAAC-308A-5F9875B2C1D1": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      -2342912,
+      1490944
+    ]
+  },
+  "0A6A408A-4CBE-12AD-BFBF-4D9C49C7135B": {
+    "facing": 0,
+    "kind": "ResourceATower",
+    "player": 0,
+    "position": [
+      -2375623,
+      -155519
+    ]
+  },
+  "0A7A28C1-4D93-E74D-94D5-BA9A1F8D450A": {
+    "facing": 0,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      -1392640,
+      -475136
+    ]
+  },
+  "0AAF9E4B-4930-4F73-4BB2-8085C0B0C9E3": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      1884160,
+      2277376
+    ]
+  },
+  "0D809C68-4B54-01A3-37E9-6AB8B91C5D8C": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      1818624,
+      2605056
+    ]
+  },
+  "0DCA7DD4-4ED3-A3F0-14EF-93AE54F363F9": {
+    "facing": 536870837,
+    "kind": "ResourceATower",
+    "player": 0,
+    "position": [
+      123199,
+      -2359170
+    ]
+  },
+  "0E1DDAD3-49AF-3E40-B175-E79921E3AD1B": {
     "facing": 1073741853,
     "kind": "locationMarkerPlayerStart",
-    "player": 12,
+    "player": 11,
     "position": [
-      786432,
-      -1212416
+      1490944,
+      851968
     ]
   },
-  "5614E840-4C65-7381-FBE7-1989D74503BB": {
-    "facing": 1610612778,
-    "kind": "MegaResourceA",
-    "player": 0,
-    "position": [
-      2129920,
-      2359296
-    ]
-  },
-  "57C9860C-4F5D-0F36-206F-9F9AF760ABD6": {
+  "118612B9-4177-F84E-8F16-42B02D697CD7": {
     "facing": 1073741853,
     "kind": "locationMarkerPlayerStart",
     "player": 4,
     "position": [
-      1966080,
-      -2359296
+      1982464,
+      2605056
     ]
   },
-  "5A829532-4689-6537-7732-278B75536BC6": {
+  "183BF2A0-4D5F-7CC3-7C25-F5B8FC240888": {
     "facing": 0,
-    "kind": "ResourceB_Generator",
-    "player": 0,
-    "position": [
-      -2211840,
-      1966080
-    ]
-  },
-  "5E4315AB-4E2A-2DDD-88D6-AA82CF03D24C": {
-    "facing": 536870867,
     "kind": "MegaResourceA",
     "player": 0,
     "position": [
-      -2359296,
-      -2129920
+      -1982464,
+      -2441216
     ]
   },
-  "5EB00894-41D0-B751-31E2-BFB2EF524928": {
+  "18E9E9BF-447E-D1E1-EA7A-2F94314F8DBE": {
+    "facing": 536870897,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      2359296,
+      -2686976
+    ]
+  },
+  "19EDA21A-4B2F-BEB7-5C1B-CD835DF7DCEC": {
+    "facing": 1610612750,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1638400,
+      1327104
+    ]
+  },
+  "1A6BDFC8-49F4-502E-90BB-94ABF01508A4": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -2703360,
+      -1867776
+    ]
+  },
+  "1D1091F0-4644-46DE-0F1C-2187F18919FB": {
+    "facing": 536870897,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      2277376,
+      -1884160
+    ]
+  },
+  "1EA2369B-4A27-CC41-22DC-7E8BC5C73BA4": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      2588672,
+      -1490944
+    ]
+  },
+  "1F2F3185-488E-DB8C-B948-B1B48FF4C519": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      1228800,
+      475136
+    ]
+  },
+  "20916506-43F3-32BA-7955-BDA47FD338D9": {
+    "facing": 0,
+    "kind": "DestructibleBuilding04",
+    "player": 0,
+    "position": [
+      -1310720,
+      -475136
+    ]
+  },
+  "2259144A-4BBF-3752-823F-17934222504B": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding04",
+    "player": 0,
+    "position": [
+      1245184,
+      557056
+    ]
+  },
+  "2480F9A9-47FF-A857-9C06-C995BE6075D6": {
     "facing": 0,
     "kind": "locationMarkerPlayerStart",
     "player": 15,
     "position": [
-      -1245184,
-      802816
+      -1490944,
+      -851968
     ]
   },
-  "5F80F421-4E17-20B4-529F-6B9461938222": {
+  "27F48CF4-405E-BB24-7498-00B359E9DD56": {
     "facing": 536870897,
-    "kind": "locationMarkerPlayerStart",
-    "player": 5,
-    "position": [
-      -1966080,
-      -2359296
-    ]
-  },
-  "62FC2447-4E27-553C-A485-DFB6451A7918": {
-    "facing": 0,
-    "kind": "locationMarkerPlayerStart",
-    "player": 8,
-    "position": [
-      -1966080,
-      2359296
-    ]
-  },
-  "67884985-4167-29A2-1116-0C8738B28DF4": {
-    "facing": 1073741998,
-    "kind": "MegaResourceA",
+    "kind": "ResourceB_Generator_2x2",
     "player": 0,
     "position": [
-      1245184,
-      -966656
+      999424,
+      -1490944
     ]
   },
-  "8722E5D4-4481-3FF7-A5A2-3A9874BDD8E3": {
-    "facing": 0,
-    "kind": "ResourceB_Generator",
-    "player": 0,
-    "position": [
-      -1966080,
-      2211840
-    ]
-  },
-  "886E8AC3-4857-E725-76CB-B8A8A44ACD04": {
-    "facing": 536870852,
-    "kind": "ResourceB_Generator",
-    "player": 0,
-    "position": [
-      -803502,
-      -1096287
-    ]
-  },
-  "897C067A-484F-2EC4-1EF5-42AC62E3954E": {
-    "facing": 1073741940,
-    "kind": "ResourceB_Generator",
-    "player": 0,
-    "position": [
-      786432,
-      -1064960
-    ]
-  },
-  "8BB21E22-4349-3778-F567-EEAF5E1FA8FC": {
-    "facing": 1610612778,
-    "kind": "MegaResourceA",
-    "player": 0,
-    "position": [
-      2359296,
-      2129920
-    ]
-  },
-  "8FC0612F-43D5-2FFF-2329-B795F6A0337D": {
-    "facing": 1610612750,
-    "kind": "locationMarkerPlayerStart",
-    "player": 9,
-    "position": [
-      802816,
-      1245184
-    ]
-  },
-  "92823D60-41F8-F6EF-377B-87953A369F39": {
-    "facing": 1610612778,
-    "kind": "ResourceB_Generator",
-    "player": 0,
-    "position": [
-      2211840,
-      1966080
-    ]
-  },
-  "9466BA56-496B-6420-7337-C9B1D57B685F": {
-    "facing": 1610612778,
-    "kind": "MegaResourceA",
-    "player": 0,
-    "position": [
-      1212416,
-      950272
-    ]
-  },
-  "99E2BC3F-42C5-C8B4-EBD7-6D96599C4DB5": {
-    "facing": 0,
-    "kind": "MegaResourceA",
-    "player": 0,
-    "position": [
-      -2129920,
-      2359296
-    ]
-  },
-  "9AE95B24-4F9B-AE1C-4799-6F9BB13EC027": {
-    "facing": 1073741940,
-    "kind": "MegaResourceA",
-    "player": 0,
-    "position": [
-      957275,
-      -1213269
-    ]
-  },
-  "9C20E7B0-4F79-9353-A3FC-17B43CF3FDC3": {
-    "facing": 536870867,
-    "kind": "MegaResourceA",
-    "player": 0,
-    "position": [
-      -2129920,
-      -2359296
-    ]
-  },
-  "A56AF7B5-407B-DE9A-5E63-508D1D8459BA": {
-    "facing": 1610612750,
-    "kind": "locationMarkerPlayerStart",
-    "player": 2,
-    "position": [
-      2359296,
-      1966080
-    ]
-  },
-  "AAF6D121-4953-6E26-3E09-17846820BC25": {
-    "facing": 1610612750,
-    "kind": "locationMarkerPlayerStart",
-    "player": 1,
-    "position": [
-      1966080,
-      2359296
-    ]
-  },
-  "B329C644-4A9E-1665-F8E6-888D3E830E4B": {
+  "28637306-4741-16F9-7A58-029456339E81": {
     "facing": 1073741911,
-    "kind": "ResourceB_Generator",
-    "player": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 12,
     "position": [
-      1966080,
-      -2211840
+      1163264,
+      1097728
     ]
   },
-  "B9CD1067-4AC1-C425-2152-DA9A601EB54D": {
-    "facing": 536870822,
-    "kind": "MegaResourceA",
+  "29EB4CFA-4523-6671-2B8E-5CAEF079CFAC": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding02",
     "player": 0,
     "position": [
-      -966656,
-      -1245184
+      2506752,
+      -1490944
     ]
   },
-  "C56920DF-4D02-727F-6230-5D9DAB527D9B": {
+  "2AC2CB32-4266-9AE7-F8DA-7591E843A2B2": {
+    "facing": 1610612750,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -2195456,
+      2686976
+    ]
+  },
+  "2CE159C1-4064-044B-920E-C9B191076AB5": {
+    "facing": 1610612822,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -1228800,
+      671744
+    ]
+  },
+  "2D97290C-41FD-ECD3-DB90-C689F55CD0F0": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      -2473984,
+      1392640
+    ]
+  },
+  "2FB5B55B-4F1F-B262-AEB0-5DAF69C9ACD0": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      -475136,
+      1474560
+    ]
+  },
+  "3D675225-4158-2A1A-2139-B4A801D7538B": {
     "facing": 0,
     "kind": "MegaResourceA",
     "player": 0,
     "position": [
-      -2359296,
-      2129920
+      -2162688,
+      -1851392
     ]
   },
-  "C577AE79-4C2A-DD4A-4113-CFA6AFB4576A": {
-    "facing": 1610612806,
+  "3F42E019-47AC-D7B2-CAA6-6DA9F3C8FBA2": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      540672,
+      -1458176
+    ]
+  },
+  "4023B515-4A87-7C3C-BB83-839DE5DD418F": {
+    "facing": 536870897,
     "kind": "MegaResourceA",
     "player": 0,
     "position": [
-      966656,
-      1245184
+      2441216,
+      -1720320
     ]
   },
-  "C75BE21E-4DFD-ADF0-5A15-B18099E65FAA": {
+  "413C6358-485C-8EA5-F465-38A20ECB4103": {
+    "facing": 0,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      -1490944,
+      -2506752
+    ]
+  },
+  "4154640C-4209-BACB-73DF-799E40641349": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      2342912,
+      -1490944
+    ]
+  },
+  "428730F0-4B29-74EF-6BC9-5E800D354835": {
+    "facing": 536870897,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      2195456,
+      -2686976
+    ]
+  },
+  "4483A062-4114-EE3F-52A1-068D74727EF2": {
+    "facing": 1610612822,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1638400,
+      638976
+    ]
+  },
+  "44C901FB-4F85-D23E-B2E4-62B1BC534658": {
+    "facing": 1610612750,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -2441216,
+      1720320
+    ]
+  },
+  "45972FEC-4641-8921-1CC3-99A01D06E793": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      1327104,
+      1097728
+    ]
+  },
+  "45C13A59-46E0-91E4-9995-EEA999FE0893": {
     "facing": 0,
     "kind": "locationMarkerPlayerStart",
     "player": 7,
     "position": [
-      -2359296,
-      1966080
+      -1720320,
+      -2277376
     ]
   },
-  "CF2BAEF4-46C0-23B5-83B8-1B9BFE24806E": {
+  "468589AE-4262-D29F-EE98-F59DF10748BF": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      2162688,
+      1851392
+    ]
+  },
+  "4695AD81-4217-FA7F-35F7-2F89E55BF82E": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding04",
+    "player": 0,
+    "position": [
+      1310720,
+      475136
+    ]
+  },
+  "46F6D447-4113-5293-4D63-E6B9A7771CA6": {
+    "facing": 1610612806,
+    "kind": "locationMarkerPlayerStart",
+    "player": 10,
+    "position": [
+      -1097728,
+      1163264
+    ]
+  },
+  "492F9801-4671-76FB-5B77-46B1B345DD59": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      2686976,
+      2359296
+    ]
+  },
+  "496319A0-4DB5-4048-FFE5-C0BAA82E8788": {
     "facing": 536870867,
-    "kind": "ResourceB_Generator",
-    "player": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 13,
     "position": [
-      -1966080,
-      -2211840
+      1097728,
+      -1163264
     ]
   },
-  "CFB34C83-4180-02EA-1BA1-EBB16E1B36F6": {
-    "facing": 1073741940,
-    "kind": "ResourceB_Generator",
+  "4A1682DA-4981-05BA-6ABF-FEA5F461FD54": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
     "player": 0,
     "position": [
-      1114112,
-      -802816
+      1490944,
+      999424
     ]
   },
-  "D2D9C441-4B18-1648-2906-C1881DCDBF6D": {
-    "facing": 536870867,
-    "kind": "ResourceB_Generator",
+  "4B5E6EB5-4942-0BE6-7AA6-32B66038D2F6": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding02",
     "player": 0,
     "position": [
-      -2211840,
-      -1966080
+      1490944,
+      2506752
     ]
   },
-  "D62E2B4F-49F1-AE1F-09FD-CB89291DC05B": {
+  "4BE61D26-490C-89C9-72DA-239EB6F7F4D8": {
+    "facing": 0,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      -1458176,
+      -540672
+    ]
+  },
+  "50B8E65C-4F98-DCA4-4CBB-D7A8F219D4BC": {
+    "facing": 0,
+    "kind": "DestructibleBuilding04",
+    "player": 0,
+    "position": [
+      -1245184,
+      -557056
+    ]
+  },
+  "510B4279-462D-345E-02C7-92B50F73B458": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      1392640,
+      540672
+    ]
+  },
+  "51FE7A42-4717-8EDA-26AD-F8BD819C4FB0": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      2686976,
+      2195456
+    ]
+  },
+  "54925578-4353-C158-FDA8-A99C4C49CE0A": {
+    "facing": 1610612750,
+    "kind": "locationMarkerPlayerStart",
+    "player": 2,
+    "position": [
+      -2277376,
+      1720320
+    ]
+  },
+  "54E69A6D-48C3-81EB-4471-FB91670A5F53": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      1392640,
+      2310144
+    ]
+  },
+  "558DD546-4BE1-0CF8-CAEB-0FAC40D88A08": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      475136,
+      -1474560
+    ]
+  },
+  "56D60511-44C5-97EB-6402-41BF287BA3D3": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      1720320,
+      2441216
+    ]
+  },
+  "57D5289B-49FE-7B65-EE48-478F9111BD1B": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding04",
+    "player": 0,
+    "position": [
+      2392064,
+      -1392640
+    ]
+  },
+  "59A89DA8-44CE-B449-BE9D-078C12B130C4": {
+    "facing": 0,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      -1474560,
+      -475136
+    ]
+  },
+  "5ABD6885-44EC-DC90-6B86-5CB3E4366986": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      1490944,
+      2424832
+    ]
+  },
+  "5AD1B2DD-46D7-BC4A-77C8-DABD04E62760": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      475136,
+      -1392640
+    ]
+  },
+  "5D172CB2-4FF8-8879-1BC2-3DA0C97C0972": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      1392640,
+      2555904
+    ]
+  },
+  "60A6EB0D-4857-A00E-882C-F8BD37C99CC6": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1327104,
+      -1097728
+    ]
+  },
+  "60EE583B-4487-5341-54D6-F09C2A43CF44": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding04",
+    "player": 0,
+    "position": [
+      -475136,
+      1310720
+    ]
+  },
+  "63C25940-4CE7-9E82-8576-E794490DCCD0": {
+    "facing": 536870940,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      1064960,
+      -671744
+    ]
+  },
+  "65186CD5-457D-B4FB-6A99-DE9BB368D3B8": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      -475136,
+      1392640
+    ]
+  },
+  "6C2D3C6D-453E-18CD-F80C-0DBCD50ADE57": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding04",
+    "player": 0,
+    "position": [
+      475136,
+      -1310720
+    ]
+  },
+  "6C8DC40C-4837-F20B-24B2-4783349141BA": {
     "facing": 1073741853,
     "kind": "locationMarkerPlayerStart",
     "player": 3,
     "position": [
-      2359296,
-      -1966080
+      1720320,
+      2277376
     ]
   },
-  "E90F83DE-43D2-ABF3-3D08-849F472B73CD": {
-    "facing": 0,
-    "kind": "ResourceB_Generator",
+  "6D9793B5-4E06-CE4F-7E3C-53AA34E19A4B": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding04",
     "player": 0,
     "position": [
-      -786432,
+      557056,
+      -1245184
+    ]
+  },
+  "70F4753B-48C7-87C2-CDA4-8FB16AB71F70": {
+    "facing": 536870940,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      1228800,
+      -671744
+    ]
+  },
+  "715DBEBF-4640-A660-2A64-5E83A8BBE970": {
+    "facing": 0,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      -1392640,
+      -2473984
+    ]
+  },
+  "72A8E415-4D62-08F8-747A-A69D0DCFABA9": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -1884160,
+      -2277376
+    ]
+  },
+  "72F3AAB4-48BD-E89C-30CF-F3BEFFDCD942": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      -2555904,
+      1392640
+    ]
+  },
+  "74A3D5B4-4864-D5BD-E4EE-B8A06895DE5D": {
+    "facing": 0,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      -1490944,
+      -2588672
+    ]
+  },
+  "75CB7E9B-4E3D-44F2-E5A8-F9B72A2C73B7": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -1490944,
+      -999424
+    ]
+  },
+  "75FC3798-4366-0B95-A44A-CE8AD371EE9A": {
+    "facing": 0,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      -1327104,
+      -540672
+    ]
+  },
+  "7B9AA2A4-41E3-1384-E522-9784016D98EF": {
+    "facing": 1610612750,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -2359296,
+      2686976
+    ]
+  },
+  "7CB8A8A8-4621-8E84-188C-3AA55D0A4CF7": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding04",
+    "player": 0,
+    "position": [
+      -557056,
+      1245184
+    ]
+  },
+  "7D820D06-47F0-9598-51A9-72905624D290": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      2473984,
+      -1392640
+    ]
+  },
+  "80468556-40B2-FC6E-A5F5-D08822A91E40": {
+    "facing": 1610612750,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -933888,
+      1163264
+    ]
+  },
+  "8087FACA-48AC-FC13-9B2A-97AFAB68C8AF": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      -540672,
+      1458176
+    ]
+  },
+  "855C47EA-4E61-7595-59AD-71BFCAC45321": {
+    "facing": 0,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      -1392640,
+      -540672
+    ]
+  },
+  "85E0A47A-40F0-5E24-53EE-6999AC0811A8": {
+    "facing": 536870897,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      1097728,
+      -1327104
+    ]
+  },
+  "86C0DE6C-4A2F-E668-8B90-95B352CAC498": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      1327104,
+      540672
+    ]
+  },
+  "8857B746-411F-7FCE-1AF6-6B954DF917F7": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      1474560,
+      475136
+    ]
+  },
+  "88DF162E-419F-BCCC-AC7A-19A17F6FD6E7": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -2686976,
+      -2195456
+    ]
+  },
+  "89275696-4835-D58D-C1F5-69B6DC1B6710": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 8,
+    "position": [
+      -1982464,
+      -2605056
+    ]
+  },
+  "8AE64ADF-42AC-8CAC-0470-1F82D561EFEA": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      1327104,
+      851968
+    ]
+  },
+  "8B457488-45AA-A1B6-8270-0DAD68C9F3AD": {
+    "facing": 1073741910,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      688128,
+      1245184
+    ]
+  },
+  "8CB25CA2-4FCD-7F9F-C15D-098E3B5EDF0E": {
+    "facing": 1610612750,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -2277376,
+      1884160
+    ]
+  },
+  "8CD5A83F-49EE-5912-1515-3BAD173CF51C": {
+    "facing": 1610612750,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -2605056,
+      1818624
+    ]
+  },
+  "8E7E823C-46BF-2D4B-8533-119AC8AA20AC": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      -2310144,
+      1392640
+    ]
+  },
+  "9005377A-461C-08E6-9602-7A98ED0A70F5": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      1490944,
+      2342912
+    ]
+  },
+  "903FEFB8-48C6-A0CF-D1DF-38A2887CE897": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1720320,
+      -2441216
+    ]
+  },
+  "9701E42E-4AAC-C3CA-D28D-A99657DE99E0": {
+    "facing": 1610612750,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1097728,
+      1327104
+    ]
+  },
+  "98C65092-4620-AC79-33AD-FDAA4BF71801": {
+    "facing": 1643396779,
+    "kind": "NeonResourceTower_CreepCamp",
+    "player": 31,
+    "position": [
+      -126425,
+      2372091
+    ]
+  },
+  "9D17718C-4BB6-7325-30FE-09973B54B208": {
+    "facing": 1081015376,
+    "kind": "NeonResourceTower_CreepCamp",
+    "player": 31,
+    "position": [
+      2368454,
+      124549
+    ]
+  },
+  "9EAF3E25-4BF0-C193-95AA-5585E0F417DA": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 16,
+    "position": [
+      -1163264,
+      -1097728
+    ]
+  },
+  "9FB34D3F-4593-BDDD-4D44-579069420C4F": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1327104,
+      -851968
+    ]
+  },
+  "9FDF845F-414B-4AA4-055E-D698ABB858B1": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      2703360,
+      1867776
+    ]
+  },
+  "A142088E-4875-413B-8BE6-72A800DD206A": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      -2506752,
+      1490944
+    ]
+  },
+  "A4441F45-4ABE-2B66-0DB5-F4BB8AD4D83D": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -1818624,
+      -2605056
+    ]
+  },
+  "A70D3E2A-44D5-C6E2-878C-38B5B35179D1": {
+    "facing": 536870897,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      2441216,
+      -1982464
+    ]
+  },
+  "A73D7A65-4418-6118-A282-009A32944B4E": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding04",
+    "player": 0,
+    "position": [
+      -2392064,
+      1392640
+    ]
+  },
+  "A8A85C6E-4507-46BC-178E-EF9CEB7D4715": {
+    "facing": 536870897,
+    "kind": "locationMarkerPlayerStart",
+    "player": 5,
+    "position": [
+      2277376,
+      -1720320
+    ]
+  },
+  "A9431F06-4FE1-C509-E69B-829BC6569D98": {
+    "facing": 536870940,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      1638400,
+      -638976
+    ]
+  },
+  "AA9E38DF-49D7-8F10-1ABE-588AD9DDE591": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      -2588672,
+      1490944
+    ]
+  },
+  "AAB094D1-452F-87BE-7F94-A683CC745D86": {
+    "facing": 56,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -671744,
+      -1064960
+    ]
+  },
+  "AB022183-44AA-7C0F-5BDA-60B2E2200C95": {
+    "facing": 0,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      -1490944,
+      -2424832
+    ]
+  },
+  "AC3B4525-4425-8738-3CD8-A3B2A39E0384": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      1392640,
+      2473984
+    ]
+  },
+  "ACC55F5C-423E-4B0F-429B-8EB342FCA700": {
+    "facing": 56,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -671744,
+      -1228800
+    ]
+  },
+  "ADA321EA-42CB-9EC1-0300-C4BFA33345E4": {
+    "facing": 538592934,
+    "kind": "NeonResourceTower_CreepCamp",
+    "player": 31,
+    "position": [
+      124549,
+      -2353711
+    ]
+  },
+  "B098ADAB-4D4B-8A82-6279-4987EF157842": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      2424832,
+      -1490944
+    ]
+  },
+  "B22F3BFF-4381-08D2-B4AD-7786F27C5640": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1327104,
+      -1638400
+    ]
+  },
+  "B40FCB89-4FA0-6CE6-7671-0DA31EA711D1": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -1163264,
+      -933888
+    ]
+  },
+  "BA41A842-46B5-6761-2788-0CBB0DE13769": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      1163264,
+      933888
+    ]
+  },
+  "BB9A0CF2-4F78-6C56-08E1-DDB3505B4AEC": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      -540672,
+      1392640
+    ]
+  },
+  "BBE671C6-4F99-98D3-4FAC-D48185E5637A": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      1458176,
+      540672
+    ]
+  },
+  "BCC79E5A-4E5B-2ED4-3DEF-EF86E1DF630B": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      1392640,
+      475136
+    ]
+  },
+  "C61DF462-4FB6-1FE9-A805-F1AED8B7967E": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      1327104,
+      1638400
+    ]
+  },
+  "CB180698-4FCC-BD01-585C-609AA725B405": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      540672,
+      -1392640
+    ]
+  },
+  "CB96987F-49FE-B4C4-C276-CDBA70093B6D": {
+    "facing": 1610612750,
+    "kind": "locationMarkerPlayerStart",
+    "player": 9,
+    "position": [
+      -851968,
+      1490944
+    ]
+  },
+  "CC86AD4A-4C03-F962-2BB5-E4A54688B7CC": {
+    "facing": 1610612750,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -2441216,
+      1982464
+    ]
+  },
+  "D11F6168-4F4F-620F-FC7A-73AA07F0AD95": {
+    "facing": 0,
+    "kind": "DestructibleBuilding04",
+    "player": 0,
+    "position": [
+      -1392640,
+      -2392064
+    ]
+  },
+  "D4FE6603-4014-5F2B-5A19-66A49CA6EAC1": {
+    "facing": 56,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -638976,
+      -1638400
+    ]
+  },
+  "D606E137-453B-430F-F430-128DA9B1DBBB": {
+    "facing": 1073741940,
+    "kind": "ResourceATower",
+    "player": 0,
+    "position": [
+      2381900,
+      126575
+    ]
+  },
+  "D6530319-4708-D720-EF2A-E2AE9A659F43": {
+    "facing": 1073741940,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      671744,
       1064960
     ]
   },
-  "F1DE8BFC-4BAC-A43B-2E93-B1AAF2629335": {
-    "facing": 0,
+  "D68198AF-423D-36F9-ECDA-B7B5B28C0AA9": {
+    "facing": 536870897,
     "kind": "MegaResourceA",
     "player": 0,
     "position": [
-      -1245150,
-      971653
+      1867776,
+      -2703360
     ]
   },
-  "F4EDEFEF-466D-0F8B-35C3-019A45CB858D": {
-    "facing": 1073741911,
+  "D99BE471-4CC2-83F8-36A5-D29ECF173936": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      1490944,
+      2588672
+    ]
+  },
+  "DAA2818F-4E59-CFC0-DB31-C185FD4AB011": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      475136,
+      -1228800
+    ]
+  },
+  "E08D6396-4E41-C779-14F5-0B92F904C29E": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      -540672,
+      1327104
+    ]
+  },
+  "E0FC8A36-4710-44BB-D148-4E8C4A5FDFE0": {
+    "facing": 1610612750,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -999424,
+      1490944
+    ]
+  },
+  "E10405AA-4A22-19A2-4AD1-E99E16D19B92": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      -2424832,
+      1490944
+    ]
+  },
+  "E1813F63-4E2B-650B-EF3D-B4AF8B0900CC": {
+    "facing": 0,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      -1228800,
+      -475136
+    ]
+  },
+  "E2D327D6-4CE4-1AFD-9C6B-68B7C23A2837": {
+    "facing": 536870897,
     "kind": "MegaResourceA",
     "player": 0,
     "position": [
-      2129920,
+      1851392,
+      -2162688
+    ]
+  },
+  "E2E0E423-4B36-45DE-14CC-189301720BCA": {
+    "facing": 1073741940,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      638976,
+      1638400
+    ]
+  },
+  "E3C85551-4818-281A-770A-B2B1FA1718FB": {
+    "facing": 1610612778,
+    "kind": "ResourceATower",
+    "player": 0,
+    "position": [
+      -126454,
+      2386235
+    ]
+  },
+  "E70EDF7B-4B86-33A9-5DFF-34B7414A1EB8": {
+    "facing": 0,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      -1490944,
+      -2342912
+    ]
+  },
+  "E7A0079C-41AF-DF30-FA9C-61910945E90B": {
+    "facing": 536870897,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      2605056,
+      -1818624
+    ]
+  },
+  "E9D0B6D9-4DD5-62D9-90B0-FFAF532B17B8": {
+    "facing": 1610612750,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1867776,
+      2703360
+    ]
+  },
+  "EAD5E7F5-453C-8CF9-306C-B8BFAEB222FC": {
+    "facing": 1610612750,
+    "kind": "locationMarkerPlayerStart",
+    "player": 1,
+    "position": [
+      -2605056,
+      1982464
+    ]
+  },
+  "EAE881A9-414E-8495-8503-118BDF21C484": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding01",
+    "player": 0,
+    "position": [
+      2310144,
+      -1392640
+    ]
+  },
+  "EB877B26-4174-5F5D-B44F-BAA9600D9B0E": {
+    "facing": 0,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      -1392640,
+      -2555904
+    ]
+  },
+  "EDA79790-440F-9BA6-0600-FDAE11FAFDFC": {
+    "facing": 1610612750,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -851968,
+      1327104
+    ]
+  },
+  "EE891092-4782-9782-42F1-E8A83AEDFED5": {
+    "facing": 30020895,
+    "kind": "NeonResourceTower_CreepCamp",
+    "player": 31,
+    "position": [
+      -2361136,
+      -152130
+    ]
+  },
+  "F0373FCA-4D6C-FFBA-E7F0-0AAB4170112C": {
+    "facing": 536870897,
+    "kind": "DestructibleBuilding02",
+    "player": 0,
+    "position": [
+      2555904,
+      -1392640
+    ]
+  },
+  "F041307F-46E7-9675-C769-1EA2DA25E760": {
+    "facing": 536870897,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      933888,
+      -1163264
+    ]
+  },
+  "F277D5D2-476B-6F8D-BDD5-2FA9B2C368CF": {
+    "facing": 1610612750,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1851392,
+      2162688
+    ]
+  },
+  "F5ED05A3-47B6-01D2-1A02-C2937AF30B36": {
+    "facing": 536870897,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      851968,
+      -1327104
+    ]
+  },
+  "F7FA0828-4FFC-1871-B9E0-EC87017514FD": {
+    "facing": 536870897,
+    "kind": "locationMarkerPlayerStart",
+    "player": 14,
+    "position": [
+      851968,
+      -1490944
+    ]
+  },
+  "F815EDBC-4FE4-963A-246D-FCA6AF5CCE8B": {
+    "facing": 1610612822,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -1064960,
+      671744
+    ]
+  },
+  "F8E58F41-49D0-5929-28CE-91BF84E95275": {
+    "facing": 1610612750,
+    "kind": "DestructibleBuilding03",
+    "player": 0,
+    "position": [
+      -475136,
+      1228800
+    ]
+  },
+  "FB11CE53-4091-5528-D533-2EBFD5BF6526": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      1982464,
+      2441216
+    ]
+  },
+  "FB3A1C1C-4D6F-6C65-7C15-14A38E2FE8C4": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -2686976,
       -2359296
+    ]
+  },
+  "FDFDB8EA-4E77-F1A4-B390-4580C0059754": {
+    "facing": 1073741853,
+    "kind": "DestructibleBuilding04",
+    "player": 0,
+    "position": [
+      1392640,
+      2392064
     ]
   },
   "version": 1

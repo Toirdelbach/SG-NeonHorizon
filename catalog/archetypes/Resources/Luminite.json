@@ -1,0 +1,68 @@
+{
+  "__base_type": "ResourceData",
+  "agitation_duration": 0.0,
+  "auto_harvester_gather_amount_multiplier": 1.0,
+  "based_on": "ResourceData",
+  "child_nodes": {
+    "node_type": "ChildResourceA",
+    "offsets": [
+      {
+        "x": -1.0,
+        "y": -1.0
+      },
+      {
+        "x": -1.0,
+        "y": 1.0
+      },
+      {
+        "x": 1.0,
+        "y": -1.0
+      },
+      {
+        "x": 1.0,
+        "y": 1.0
+      }
+    ]
+  },
+  "depleted_percentage": 0.0,
+  "description": "pegasus_core|ResourceData_description_MegaResourceA",
+  "flags": {
+    "add_faction_luminite_worker_count": true,
+    "clear_worker_storage_by_sb_id": false,
+    "hidden_from_triggers": false
+  },
+  "fog_visibility": "Snapshot",
+  "footprint": {
+    "angled": false,
+    "clumpable": false,
+    "snap": true,
+    "unbuildable": false,
+    "vision_block_height": 0,
+    "x": 4.0,
+    "y": 4.0
+  },
+  "gather_amount": 1.0,
+  "gather_rate": [],
+  "id": "MegaResourceA",
+  "info_portrait": "Texture2D'/Game/Pegasus/UI/Assets/Portraits/Neutral/UI_Portrait_Neutral_Default_LuminiteMine.UI_Portrait_Neutral_Default_LuminiteMine'",
+  "max_gathering_units": 0,
+  "minimap_icon": "Texture2D'/Game/Pegasus/UI/Assets/Icons/Resources/UI_Icons_Resources_Luminite.UI_Icons_Resources_Luminite'",
+  "minimap_icon_size": 15.0,
+  "name": "pegasus_core|ResourceData_name_MegaResourceA",
+  "nearby_cells": 5.0,
+  "optimal_worker_count": 0,
+  "optimal_worker_count_depleted": 4,
+  "placed_name": "",
+  "radius": 2.82842,
+  "resource_type": "A",
+  "sb_id": "",
+  "selectable": true,
+  "starting_snowtags": [
+    "entity_resource_generator_a",
+    "status_invulnerable",
+    "visual_minimap_never"
+  ],
+  "total_resources": 24000.0,
+  "unreal_actor": "BP_Resource_MegaCluster",
+  "worker_storage_size_multiplier": 1.0
+}

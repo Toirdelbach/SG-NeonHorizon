@@ -1,0 +1,43 @@
+﻿{
+  "__base_type": "LevelLightingData",
+  "based_on": "DefaultLightingData",
+  "id": "NeonRedLighting",
+  "light_2": {
+    "color": {
+      "blue": 30.0,
+      "green": 30.0,
+      "red": 225.0
+    },
+    "intensity": 5.0,
+    "overrideEnabled": true,
+    "rotation": {
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+    }
+  },
+  "lighting_preset": "/Script/Engine.BlueprintGeneratedClass'/Game/Pegasus/Art/Lighting/Lights/BP_Lighting_Default_Night.BP_Lighting_Default_Night_C'",
+  "skylight": {
+    "color": {
+      "blue": 30.0,
+      "green": 30.0,
+      "red": 225.0
+    },
+    "intensity": 5.0,
+    "overrideEnabled": true
+  },
+  "sun": {
+    "color": {
+      "blue": 30.0,
+      "green": 30.0,
+      "red": 225.0
+    },
+    "intensity": 5.0,
+    "overrideEnabled": true,
+    "rotation": {
+      "pitch": 330.0,
+      "roll": 0.0,
+      "yaw": -45.0
+    }
+  }
+}

@@ -1,6 +1,6 @@
 ﻿{
   "__base_type": "TerrainTileset",
-  "based_on": "TerrainTileset",
+  "based_on": "TerrainTileset_SigmaStation",
   "cliff_set_a": "DA_CliffSet_Sigma1",
   "cliff_set_b": "DA_CliffSet_Sigma1",
   "display_name": "",
@@ -14,6 +14,6 @@
   "layer_6": "TerrainLayer_SigmaStation_Concrete",
   "layer_7": "TerrainLayer_SigmaStation_ConcreteTiles",
   "layer_8": "TerrainLayer_SigmaStation_MetalGrates",
-  "render_abyss": true,
+  "render_abyss": false,
   "water_table": "DA_WaterTable_ForestAutumn"
 }

@@ -6,9 +6,9 @@
     "right_offset": 20.0,
     "top_offset": 20.0
   },
-  "description": "Just another Stormgate map",
+  "description": "Drifting in the neon glow of space",
   "id": "InstanceMapSettings",
-  "lighting_settings": "DefaultLightingNight",
+  "lighting_settings": "NeonRedLighting",
   "playable_bounds": {
     "bottom_offset": 10,
     "left_offset": 10,
@@ -24,7 +24,7 @@
           "value": "human"
         },
         "team": {
-          "locked": false,
+          "locked": true,
           "value": 0
         }
       }
@@ -37,7 +37,7 @@
           "value": "ai"
         },
         "team": {
-          "locked": false,
+          "locked": true,
           "value": 0
         }
       }
@@ -50,7 +50,7 @@
           "value": "ai"
         },
         "team": {
-          "locked": false,
+          "locked": true,
           "value": 1
         }
       }
@@ -63,7 +63,7 @@
           "value": "ai"
         },
         "team": {
-          "locked": false,
+          "locked": true,
           "value": 1
         }
       }
@@ -225,7 +225,7 @@
       }
     }
   ],
-  "tileset": "TerrainTileset_SigmaStation",
+  "tileset": "TerrainTileset_NeonHorizon",
   "time_of_day": {
     "scale": 1.0
   },

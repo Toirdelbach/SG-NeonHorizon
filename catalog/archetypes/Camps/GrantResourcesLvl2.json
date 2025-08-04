@@ -1,0 +1,38 @@
+
+{
+"__base_type": "GameEffectGrantResources",
+"based_on": "GameEffectGrantResources",
+"editor_icon": "",
+"effect_target": {
+    "effect_parent": "none",
+    "target": "Target"
+},
+"flags": {
+    "display_at_target_location": false,
+    "display_floating_text": true,
+    "display_stolen_floating_text": true,
+    "scale_resource_a": true,
+    "scale_resource_b": true
+},
+"id": "NeonResourceTower_GrantResourcesLevel2",
+"impact_fx": "",
+"refund_amount": {
+    "resource_a": 75.0,
+    "resource_b": 30.0,
+    "resource_c": 0.0,
+    "resource_d": 0.0
+},
+"refund_player": {
+    "effect_parent": "none",
+    "target": "Target"
+},
+"refund_scaling_percentage": {},
+"steal_percentage": 0.0,
+"steal_player": {
+    "effect_parent": "none",
+    "target": "Target"
+},
+"tracker": "",
+"validator": "emptyRef",
+"victory_points": 0.0
+}

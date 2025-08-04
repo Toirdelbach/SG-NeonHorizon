@@ -1,0 +1,25 @@
+    {
+    "__base_type": "CreepCamp",
+    "based_on": "BaseCreepCamp",
+    "camp_type": "ResourceATower_CreepCampType",
+    "capture_point": "NeonResourceTower_CapturePoint",
+    "creep_level_buffs": [],
+    "creep_level_starting": 1,
+    "creeps": [
+        "CaptureDummy"
+    ],
+    "flags": {
+        "creeps_defeatable": false,
+        "dynamic_creeps": false
+    },
+    "fog_visibility": "Visible",
+    "id": "NeonResourceTower_CreepCamp",
+    "leash_patience": 7.0,
+    "leash_radius": 15.0,
+    "leash_radius_slop": 3.0,
+    "placed_name": "",
+    "respawn_time": 10.0,
+    "reward_captureless": "emptyRef",
+    "spawn_time": 10.0,
+    "unreal_actor": "BP_ResourceACreepCamp"
+    }
